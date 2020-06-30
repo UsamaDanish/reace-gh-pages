@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reace-gh-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reace-gh-pages/static/js/main.8d516c9d.chunk.js",
+    "main.js.map": "/reace-gh-pages/static/js/main.8d516c9d.chunk.js.map",
+    "runtime-main.js": "/reace-gh-pages/static/js/runtime-main.4c20fb2a.js",
+    "runtime-main.js.map": "/reace-gh-pages/static/js/runtime-main.4c20fb2a.js.map",
+    "static/js/2.a51ad747.chunk.js": "/reace-gh-pages/static/js/2.a51ad747.chunk.js",
+    "static/js/2.a51ad747.chunk.js.map": "/reace-gh-pages/static/js/2.a51ad747.chunk.js.map",
+    "index.html": "/reace-gh-pages/index.html",
+    "precache-manifest.3dd7ad8fb8178fbda67424edce4bfafb.js": "/reace-gh-pages/precache-manifest.3dd7ad8fb8178fbda67424edce4bfafb.js",
+    "service-worker.js": "/reace-gh-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reace-gh-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a51ad747.chunk.js.LICENSE.txt": "/reace-gh-pages/static/js/2.a51ad747.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reace-gh-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c20fb2a.js",
+    "static/js/2.a51ad747.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8d516c9d.chunk.js"
+  ]
+}
